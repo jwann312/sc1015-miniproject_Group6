@@ -1,4 +1,4 @@
-# sc1015-miniproject_Group6
+# SC1015-miniproject_Group6
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on music streaming services from 
