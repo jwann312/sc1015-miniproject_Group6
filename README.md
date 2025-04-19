@@ -11,9 +11,9 @@ For a walkthrough, follow the source code in order from:
 
 
 ## Contributors
-- [jwann312](https://github.com/jwann312)
-- [freth0](https://github.com/freth0)
-- [bigballernation](https://github.com/bigballernation)
+- [bigballernation](https://github.com/bigballernation) (Data Extraction, Data Cleaning, EDA)
+- [jwann312](https://github.com/jwann312) (EDA, Song Recommendation Model)
+- [freth0](https://github.com/freth0) (KMeans Clustering, Song Recommendation Model, Group Leader)
 
 ## Problem Definition
 - Are we able to succesfully recommend similar songs to users?
