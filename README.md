@@ -17,11 +17,14 @@ For a walkthrough, follow the source code in order from:
 
 ## Problem Definition
 - Are we able to succesfully recommend similar songs to users?
-- Which models and sound features would be the best to use to find similar songs?
+- How well can our model find similar songs, with the variable we chose?
 
 ## Models Used
+- KMeans Clustering
+- Decision Tree Classification
+
 
 ## Conclusion and Takeaways
-
-
-## References
+- We found out that sound features are important for song recommendations, and that duration/runtime surprisingly had a weak correlation with our final model.
+- Some clusters were well defined, but some clusters were not due to the similarity in sound features. This was due to limitations in our dataset, which we believe will be improved on when scaled with a larger one.
+- We incorporated clustering and finding Euclidean distance to recommend songs of similar sound features, which was successful in accounting for users listening preferences.
