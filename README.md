@@ -32,3 +32,4 @@ For a walkthrough, follow the source code in order from:
 ## References
 - https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook
 - https://www.kaggle.com/code/prashant111/recommender-systems-in-python
+- https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system/notebook
