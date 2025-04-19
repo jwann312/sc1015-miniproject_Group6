@@ -30,4 +30,5 @@ For a walkthrough, follow the source code in order from:
 - We incorporated clustering and finding Euclidean distance to recommend songs of similar sound features, which was successful in accounting for users listening preferences since clustering helps avoid overfitting to only the most similar tracks, which can feel repetitive for users.
 
 ## References
-- https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook 
+- https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook
+- https://www.kaggle.com/code/prashant111/recommender-systems-in-python
